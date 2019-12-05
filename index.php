@@ -10,8 +10,9 @@ $valeur = 'departments name';
   </head>
   <body>
     <h1>Departments</h1>
+    <!--Création d'un tableau grâce à la fonction array-->
     <?php
-    $index ['Nord'=>59, 'Pas-de-Calais'=>62, 'Somme'=>80, 'Oise'=>60, 'Aisne'=>02]
+    $index = array('Nord'=>59, 'Pas-de-Calais'=>62, 'Somme'=>80, 'Oise'=>60, 'Aisne'=>02);
      ?>
   </body>
 </html>
